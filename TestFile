@@ -1,0 +1,17 @@
+A shell is a command-line interpreter and typical operations performed by shell scripts include file manipulation,
+program execution, and printing text.
+Shell scripts have several required constructs that tell the shell environment what to do and when to do it. Of course,
+most scripts are more complex than the above one.
+
+The shell is, after all, a real programming language, complete with variables, control structures, and so forth. No matter how 
+complicated a script gets, it is still just a list of commands executed sequentially.
+
+The following script uses the read command which takes the input from the keyboard and assigns it as the value of the 
+variable PERSON and finally prints it on STDOUT.
+The Unix operating system is a set of programs that act as a link between the computer and the user.
+
+The computer programs that allocate the system resources and coordinate all the details of the computer's internals is 
+called the operating system or the kernel.
+
+Users communicate with the kernel through a program known as the shell. The shell is a command line interpreter; it translates 
+commands entered by the user and converts them into a language that is understood by the kernel.
